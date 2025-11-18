@@ -12,3 +12,12 @@ Beskrivning av vad som händer här.
 # Exempel på kommandon
 echo "Hello world"
 
+
+🛠️ 2. Andra steget
+<p align="center"> <img src="images/exempel.png" width="600"> </p>
+
+
+
+# Exempel kodblock
+config:
+  option: true
