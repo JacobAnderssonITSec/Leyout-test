@@ -1,4 +1,4 @@
-🧩 Min Guide Titel
+# 🧩 Min Guide Titel
 
 > Kort beskrivning av vad den här guiden handlar om.
 
@@ -8,12 +8,12 @@
 
 Beskrivning av vad som händer här.
 
-
+```bash
 # Exempel på kommandon
 echo "Hello world"
 
 
-##🛠️ 2. Andra steget
+## 🛠️ 2. Andra steget
 <p align="center"> <img src="images/exempel.png" width="600"> </p>
 
 
