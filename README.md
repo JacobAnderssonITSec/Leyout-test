@@ -13,6 +13,9 @@ Beskrivning av vad som händer här.
 echo "Hello world"
 
 ```
+<p align="center">
+  <img src="images/katt.png" width="400">
+</p>
 
 
 ## 🛠️ 2. Andra steget
