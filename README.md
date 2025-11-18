@@ -8,12 +8,12 @@
 
 Beskrivning av vad som händer här.
 
-```bash
+
 # Exempel på kommandon
 echo "Hello world"
 
 
-🛠️ 2. Andra steget
+##🛠️ 2. Andra steget
 <p align="center"> <img src="images/exempel.png" width="600"> </p>
 
 
@@ -21,3 +21,6 @@ echo "Hello world"
 # Exempel kodblock
 config:
   option: true
+
+
+```bash
